@@ -348,4 +348,6 @@ pm2 start app.js --name sharelist --env prod
 ### 9.输入网址"http://127.0.0.1:33001",完成！
 
 
-https://img.shields.io/badge/Sharelist-Thanks-brightgreen
+![](https://img.shields.io/badge/Sharelist-Thanks-brightgreen.svg) ![](https://img.shields.io/badge/RaiDrive-Thanks-red.svg)
+
+![](https://img.shields.io/badge/GitHub-10+-yellow.svg?style=social&logo=github)
