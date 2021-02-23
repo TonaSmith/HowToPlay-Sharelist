@@ -55,8 +55,6 @@ wget --no-check-certificate -qO-  https://raw.githubusercontent.com/reruin/share
 bash update.sh
 ```
 
-就怕项目失效,离线一个版本以备不时之需👇
-
 ### 3.进入Sharelist目录
 
 ```bash
@@ -69,7 +67,7 @@ cd sharelist
 bash install.sh
 ```
 
-### 5.此时打开 http://localhost:33001并显示界面,即为安装成功
+### 5.此时打开 "http://localhost:33001"并显示界面,即为安装成功
 
 ### 6.安装报错,进行排查
 
@@ -290,7 +288,7 @@ bash install.sh
 
 Termux是一个命令行工具，前往官网下载最新版
 
-[点我下载Termux](https://termux.com)
+[点我下载:Termux](https://termux.com)
 
 ### 2.安装git
 
@@ -347,4 +345,7 @@ npm i pm2 -g
 pm2 start app.js --name sharelist --env prod
 ```
 
-### 9.输入网址http://127.0.0.1:33001，完成！
+### 9.输入网址"http://127.0.0.1:33001",完成！
+
+
+https://img.shields.io/badge/Sharelist-Thanks-brightgreen
