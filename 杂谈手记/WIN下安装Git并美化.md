@@ -4,9 +4,7 @@
 
 # 2.美化Git图形界面
 
-### ① 下载这一款字体
-
-
+### ① 下载JetBrainsMono字体
 
 ### ② 解压字体,得到ttf文件
 
@@ -64,5 +62,4 @@ BoldAsFont=no
 
 ### ⑥ 退出界面重启即可
 
-![](https://tcs.teambition.net/storage/3122ffa4da894f6ca2f13ad77a14118f0707?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTYxNDY1NDQ4MywiaWF0IjoxNjE0MDQ5NjgzLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMjJmZmE0ZGE4OTRmNmNhMmYxM2FkNzdhMTQxMThmMDcwNyJ9.lga_9K4EZJzf5Dkxz1h_gTpP1X5Baa8olttJZfmGezA&download=2021-02-19_131714.png "")
-
+![](https://tcs.teambition.net/storage/3122ffa4da894f6ca2f13ad77a14118f0707?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTYxNDY1NDQ4MywiaWF0IjoxNjE0MDQ5NjgzLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMjJmZmE0ZGE4OTRmNmNhMmYxM2FkNzdhMTQxMThmMDcwNyJ9.lga_9K4EZJzf5Dkxz1h_gTpP1X5Baa8olttJZfmGezA&download=2021-02-19_131714.png )
