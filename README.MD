@@ -35,7 +35,7 @@ pm2 -v
 
 我这里以D:/Git/download目录为例
 
-![](https://tcs.teambition.net/storage/31220fdf128123180537995070d4b5431458?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTYxNDY0NTkwNywiaWF0IjoxNjE0MDQxMTA3LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMjIwZmRmMTI4MTIzMTgwNTM3OTk1MDcwZDRiNTQzMTQ1OCJ9.Yni5d7U7IlMdzE7ZmJaujIkSb70RydbRPI_FL5W9Xxg&download=2021-02-20_114929.png )
+![](image/README/1614051537597.png)
 
 ### 2.输入如下命令,下载Sharelist程序安装包
 
@@ -83,7 +83,7 @@ bash install.sh
 
 注释掉这一行
 
-![](https://tcs.teambition.net/storage/31226f053ac9bc637b46efab5bbb04904876?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTYxNDY0NTkwNywiaWF0IjoxNjE0MDQxMTA3LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMjI2ZjA1M2FjOWJjNjM3YjQ2ZWZhYjViYmIwNDkwNDg3NiJ9.O1bgNOqfFlvSPVdvHNwWhY1v4WHnWHb7wTIEdUVkcX4&download=2021-02-20_120221.png )
+![](image/README/1614051561110.png)
 
 这是一段PATH路径寻址的代码，因为我在安装Node.js环境时配置了全局环境变量，可能导致了它加载不到正确的路径，所以我们注释掉这段代码，就可以依靠全局环境变量正确寻址。
 
